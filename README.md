@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suhel Khan</h1>
-<h3 align="center">A Passionate and Results-Driven DevOps Engineer from India</h3>
+<h3 align="center">A Passionate and Results-Driven Cloud and DevOps Engineer from India</h3>
 
 ---
 
 ## About Me
-I am a **DevOps Engineer** based in India, passionate about automation and continuous integration/delivery (CI/CD) pipelines. My expertise spans cloud computing, infrastructure automation, and containerization technologies. I specialize in **Docker**, **Kubernetes**, **Jenkins**, and cloud platforms like **AWS** and **Azure**, focusing on creating scalable, reliable, and automated systems.
+I am a **Cloud and DevOps Engineer** based in India, passionate about automation and continuous integration/delivery (CI/CD) pipelines. My expertise spans cloud computing, infrastructure automation, and containerization technologies. I specialize in **Docker**, **Kubernetes**, **Jenkins**, and cloud platforms like **AWS** and **Azure**, focusing on creating scalable, reliable, and automated systems.
 
 My philosophy is to streamline complex workflows and optimize processes to drive operational efficiency. In my free time, I dive into coding challenges, improve my skills in **Data Structures and Algorithms (DSA)**, and explore emerging technologies.
 
@@ -27,12 +27,10 @@ My philosophy is to streamline complex workflows and optimize processes to drive
 
 ## 🚀 GitHub Stats
 
-<!-- GitHub Stats - Custom Section -->
 <p align="center">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhel788&show_icons=true&hide=prs&count_private=true&locale=en)
 </p>
 
-<!-- Top Languages Section -->
 <p align="center">
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=suhel788&show_icons=true&layout=compact&hide=html,css&locale=en)
 </p>
@@ -95,4 +93,3 @@ In my pursuit of professional growth, I continuously learn and master new concep
 <h3 align="center">"Building Scalable, Automated Solutions for a Smarter Tomorrow!" 🚀</h3>
 
 ---
-
