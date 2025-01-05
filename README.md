@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate and Results-Driven DevOps Engineer from India</h3>
 
 ## About Me
-I am a **DevOps Engineer** based in India, driven by a passion for automation and continuous integration/delivery (CI/CD) pipelines. My expertise spans across cloud computing, infrastructure automation, and containerization technologies. I specialize in **Docker**, **Kubernetes**, **Jenkins**, and cloud platforms like **AWS** and **Azure**, where I focus on creating scalable, reliable, and automated systems. 
+I am a **DevOps Engineer** based in India, driven by a passion for automation and continuous integration/delivery (CI/CD) pipelines. My expertise spans across cloud computing, infrastructure automation, and containerization technologies. I specialize in **Docker**, **Kubernetes**, **Jenkins**, and cloud platforms like **AWS** and **Azure**, where I focus on creating scalable, reliable, and automated systems.
 
 My philosophy revolves around streamlining complex workflows and optimizing processes to drive operational efficiency. In my spare time, I dive into coding challenges, hone my skills in **Data Structures and Algorithms (DSA)**, and explore emerging technologies.
 
@@ -37,9 +37,9 @@ My philosophy revolves around streamlining complex workflows and optimizing proc
 - **AWS** ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
 - **Azure** ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
 - **Docker** ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
-- **Kubernetes** ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
-- **Jenkins** ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
-- **VMware** ![VMware](https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg)
+- **Kubernetes** ![Kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg)
+- **Jenkins** ![Jenkins](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original-wordmark.svg)
+- **VMware** ![VMware](https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original-wordmark.svg)
 - **Oracle Cloud** ![Oracle Cloud](https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg)
 
 ### Programming Languages
