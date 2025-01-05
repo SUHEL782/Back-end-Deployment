@@ -39,8 +39,17 @@ My philosophy is to streamline complex workflows and optimize processes to drive
 ---
 
 ## 📢 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/suhelkhan781/)
-- [LeetCode](https://leetcode.com/u/if2qkmhzco/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/suhelkhan781/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/if2qkmhzco/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/thecomputersk" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/HackerRank_logo.png" alt="HackerRank" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
