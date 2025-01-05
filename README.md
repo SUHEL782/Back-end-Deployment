@@ -25,18 +25,6 @@ My philosophy is to streamline complex workflows and optimize processes to drive
 
 ---
 
-## 🚀 GitHub Stats
-
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhel788&show_icons=true&hide=prs&count_private=true&locale=en)
-</p>
-
-<p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=suhel788&show_icons=true&layout=compact&hide=html,css&locale=en)
-</p>
-
----
-
 ## 🔧 Technologies & Tools
 
 ### Cloud & DevOps Tools
