@@ -34,24 +34,33 @@ My philosophy revolves around streamlining complex workflows and optimizing proc
 ## 🔧 Technologies & Tools
 
 ### Cloud & DevOps Tools
-- **AWS** ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-- **Azure** ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
-- **Docker** ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
-- **Kubernetes** ![Kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg)
-- **Jenkins** ![Jenkins](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original-wordmark.svg)
-- **VMware** ![VMware](https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original-wordmark.svg)
-- **Oracle Cloud** ![Oracle Cloud](https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg)
+
+| Cloud & DevOps Tools |
+| -------------------- |
+| ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) AWS |
+| ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) Azure |
+| ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) Docker |
+| ![Kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg) Kubernetes |
+| ![Jenkins](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original-wordmark.svg) Jenkins |
+| ![VMware](https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original-wordmark.svg) VMware |
+| ![Oracle Cloud](https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg) Oracle Cloud |
 
 ### Programming Languages
-- **Java** ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-- **Python** ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-- **JavaScript** ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+
+| Programming Languages |
+| ---------------------- |
+| ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java |
+| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python |
+| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript |
 
 ### MERN Stack (Secondary Focus)
-- **Node.js** ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-- **React.js** ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-- **Express.js** ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-- **MongoDB** ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
+
+| MERN Stack |
+| ---------- |
+| ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) Node.js |
+| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React |
+| ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) Express.js |
+| ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) MongoDB |
 
 ---
 
