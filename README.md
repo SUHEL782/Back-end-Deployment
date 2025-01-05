@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhel Khan</h1>
-<h3 align="center">A Passionate and Results-Driven Cloud and DevOps Engineer from India</h3>
+<h3 align="center">A Passionate Cloud & DevOps Engineer from India, Committed to Building Scalable, Efficient, and Automated Cloud Solutions, and Transforming CI/CD Pipelines for Seamless Delivery and Operational Excellence.</h3>
 
 ---
 
@@ -27,49 +27,24 @@ My philosophy is to streamline complex workflows and optimize processes to drive
 
 ## 🔧 Technologies & Tools
 
-### Cloud & DevOps Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original-wordmark.svg" alt="Jenkins" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original-wordmark.svg" alt="VMware" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle Cloud" width="50"/>
-</p>
+### Cloud & DevOps Tools:
+- **AWS**, **Azure**, **Google Cloud**, **Docker**, **Kubernetes**, **Jenkins**, **Terraform**, **Ansible**, **VMware**, **Oracle Cloud**
 
-### Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-</p>
+### Programming Languages:
+- **Java**, **Python**, **JavaScript**
 
-### MERN Stack (Secondary Focus)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50"/>
-</p>
+### MERN Stack (Secondary Focus):
+- **Node.js**, **React.js**, **Express.js**, **MongoDB**
 
 ---
 
 ## 📢 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/suhelkhan781/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/if2qkmhzco/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
-  </a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/suhelkhan781/)
+- [LeetCode](https://leetcode.com/u/if2qkmhzco/)
 
 ---
 
 ## 📚 Continuous Learning Journey
-
 In my pursuit of professional growth, I continuously learn and master new concepts:
 - **Data Structures & Algorithms (DSA)**: Solving complex problems in **Java**, **Python**, and **JavaScript**.
 - **Cloud-Native Development**: Mastering tools like **Terraform**, **Kubernetes**, and **AWS Lambda**.
