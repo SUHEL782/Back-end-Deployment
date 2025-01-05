@@ -4,9 +4,9 @@
 ---
 
 ## About Me
-I am a **DevOps Engineer** based in India, driven by a passion for automation and continuous integration/delivery (CI/CD) pipelines. My expertise spans across cloud computing, infrastructure automation, and containerization technologies. I specialize in **Docker**, **Kubernetes**, **Jenkins**, and cloud platforms like **AWS** and **Azure**, where I focus on creating scalable, reliable, and automated systems.
+I am a **DevOps Engineer** based in India, passionate about automation and continuous integration/delivery (CI/CD) pipelines. My expertise spans cloud computing, infrastructure automation, and containerization technologies. I specialize in **Docker**, **Kubernetes**, **Jenkins**, and cloud platforms like **AWS** and **Azure**, focusing on creating scalable, reliable, and automated systems.
 
-My philosophy revolves around streamlining complex workflows and optimizing processes to drive operational efficiency. In my spare time, I dive into coding challenges, hone my skills in **Data Structures and Algorithms (DSA)**, and explore emerging technologies.
+My philosophy is to streamline complex workflows and optimize processes to drive operational efficiency. In my free time, I dive into coding challenges, improve my skills in **Data Structures and Algorithms (DSA)**, and explore emerging technologies.
 
 🔧 **Core Skills:**
 - **Cloud Platforms**: AWS, Azure, Google Cloud
@@ -27,9 +27,14 @@ My philosophy revolves around streamlining complex workflows and optimizing proc
 
 ## 🚀 GitHub Stats
 
+<!-- GitHub Stats - Custom Section -->
 <p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=suhel788&show_icons=true&locale=en&layout=compact)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhel788&show_icons=true&locale=en)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhel788&show_icons=true&hide=prs&count_private=true&locale=en)
+</p>
+
+<!-- Top Languages Section -->
+<p align="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=suhel788&show_icons=true&layout=compact&hide=html,css&locale=en)
 </p>
 
 ---
@@ -79,7 +84,7 @@ My philosophy revolves around streamlining complex workflows and optimizing proc
 
 ## 📚 Continuous Learning Journey
 
-In my quest for professional growth, I am always learning and mastering new concepts:
+In my pursuit of professional growth, I continuously learn and master new concepts:
 - **Data Structures & Algorithms (DSA)**: Solving complex problems in **Java**, **Python**, and **JavaScript**.
 - **Cloud-Native Development**: Mastering tools like **Terraform**, **Kubernetes**, and **AWS Lambda**.
 - **Automation**: Improving workflows and automation using **Ansible** and **Terraform**.
@@ -90,3 +95,4 @@ In my quest for professional growth, I am always learning and mastering new conc
 <h3 align="center">"Building Scalable, Automated Solutions for a Smarter Tomorrow!" 🚀</h3>
 
 ---
+
