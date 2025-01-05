@@ -27,38 +27,46 @@ My philosophy revolves around streamlining complex workflows and optimizing proc
 
 ## 🚀 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=suhel788&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhel788&show_icons=true&locale=en)
+<p align="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=suhel788&show_icons=true&locale=en&layout=compact)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhel788&show_icons=true&locale=en)
+</p>
 
 ---
 
 ## 🔧 Technologies & Tools
 
 ### Cloud & DevOps Tools
-- ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) **AWS**
-- ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) **Azure**
-- ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) **Docker**
-- ![Kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg) **Kubernetes**
-- ![Jenkins](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original-wordmark.svg) **Jenkins**
-- ![VMware](https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original-wordmark.svg) **VMware**
-- ![Oracle Cloud](https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg) **Oracle Cloud**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original-wordmark.svg" alt="Jenkins" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original-wordmark.svg" alt="VMware" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle Cloud" width="50"/>
+</p>
 
 ### Programming Languages
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) **Java**
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) **Python**
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) **JavaScript**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+</p>
 
 ### MERN Stack (Secondary Focus)
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) **Node.js**
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) **React.js**
-- ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) **Express.js**
-- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) **MongoDB**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50"/>
+</p>
 
 ---
 
 ## 📢 Let's Connect
-<p align="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/suhelkhan781/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -70,6 +78,7 @@ My philosophy revolves around streamlining complex workflows and optimizing proc
 ---
 
 ## 📚 Continuous Learning Journey
+
 In my quest for professional growth, I am always learning and mastering new concepts:
 - **Data Structures & Algorithms (DSA)**: Solving complex problems in **Java**, **Python**, and **JavaScript**.
 - **Cloud-Native Development**: Mastering tools like **Terraform**, **Kubernetes**, and **AWS Lambda**.
@@ -82,15 +91,3 @@ In my quest for professional growth, I am always learning and mastering new conc
 
 ---
 
-### Enhancements & Next-Level Features:
-- **Clear, Professional Structure**: I've improved the visual appeal by organizing each section clearly.
-- **Icon Consistency**: Icons now match well and represent the technologies you use, adding a professional touch.
-- **Improved Stats Section**: GitHub stats and top languages are better highlighted to showcase your profile activity.
-- **Link Interactions**: Enhanced the interaction options (LinkedIn, Leetcode) with neat, clickable icons.
-- **Learning Path**: Demonstrated a continuous learning path to reflect your growth and evolving expertise in technologies.
-
-### Additional Ideas:
-- You could consider adding badges for specific certifications you might have, or any achievements such as hackathons, contributing to open source, etc.
-- Customize your `README` by incorporating more personal projects or repositories you’ve worked on.
-
-This profile layout and structure will help you stand out and give a polished feel to visitors looking to learn more about you!
